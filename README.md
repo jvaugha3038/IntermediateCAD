@@ -10,67 +10,44 @@ This repository will actually serve as a aid to help you get started with your o
 
 ## Teamwork
 
-### Description & Code
-Description goes here
-
-Here's how you make code look like code:
+### Description
+The goal of this assignment was to work with a partner to create a pull copter comprised of five parts, the top, spinner, key, ring, and prop. The top was already made for us.
+My partner in this was Ryan Franck.
 
 ### Evidence
 
-
-![spinningMetro_Optimized](https://user-images.githubusercontent.com/54641488/192549584-18285130-2e3b-4631-8005-0792c2942f73.gif)
-
-
-And here is how you should give image credit to someone, if you use their work:
-
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
-
-
-
-### Wiring
-Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+![image](https://user-images.githubusercontent.com/112961338/197209718-83789c10-2f35-4706-98dd-213be9917455.png)
+![image](https://user-images.githubusercontent.com/112961338/197209722-3d7086cf-0854-4052-949c-c9bc995c8d73.png)
 
 ### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
+This assignment was pretty easy, as the class finished it at around the same time. This was an instruction following assignment, so the only bad part was having to flip back and forth between the instructions and the part studio. 
 
 
 
 
-## CircuitPython_Servo
+## Swing_Arm
 
 ### Description & Code
 
-```python
-Code goes here
-
-```
 
 ### Evidence
 
 Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
 
-### Wiring
 
 ### Reflection
 
 
 
 
-## CircuitPython_LCD
+## Multi_Part_Studio
 
-### Description & Code
+### Description
 
-```python
-Code goes here
-
-```
 
 ### Evidence
 
 Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
-
-### Wiring
 
 ### Reflection
 
@@ -80,15 +57,10 @@ Pictures / Gifs of your work should go here.  You need to communicate what your 
 
 ## NextAssignment
 
-### Description & Code
-
-```python
-Code goes here
-
-```
+### Description
 
 ### Evidence
 
-### Wiring
 
 ### Reflection
+credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
