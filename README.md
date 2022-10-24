@@ -7,7 +7,7 @@
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
-## **Teamwork**
+## Teamwork
 
 ### Description
 The goal of this assignment was to work with a partner to create a pull copter comprised of five parts, the top, spinner, key, ring, and prop. The top was already made for us.
@@ -21,7 +21,7 @@ My partner in this was Ryan Franck.
 ### Reflection
 This assignment was pretty easy, as the class finished it at around the same time. This was an instruction following assignment, so the only bad part was having to flip back and forth between the instructions and the part studio. 
 
-## **Swing_Arm**
+## Swing_Arm
 
 ### Description
 The goal of this assignment was to use 4 drawings of a part to create the part. The second step involved changing 3 variables. This meant we had to build it in a way that would ensure it wouldn't break at step 2.
@@ -36,7 +36,7 @@ Step 2
 ### Reflection
 This assignment was somewhat troubling. At face value, it seemed very difficult, as there was no real place to start building. I eventually started with defining the 3 variables, and getting the rough shape of it down. Once I got started, it became much simpler, until I got to the holes on the ends of the swing arm. I had no idea how to constrain them, but it involved some math using numbers that were in different drawings. At step 2, I changed the variables, and the mass of the part ended up being about 200 to 300 grams off. I had apparently set a dimension to a variable even though it shouldn't have been. I feel like every problem I encountered here could have been easily avoided.
 
-## **Multi_Part_Studio**
+## Multi_Part_Studio
 
 ### Description
 This assignment was similar to the previous one, but on a larger scale; we had to use 10 drawings to create parts in one part studio, then change dimensions for the next 3 steps.
