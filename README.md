@@ -46,14 +46,14 @@ Step 1
 ![image](https://user-images.githubusercontent.com/112961338/197533959-dad31c35-e184-4f42-a78e-8dbe9c1385f1.png)
 Step 2
 ![image](https://user-images.githubusercontent.com/112961338/197533995-4e106c30-ab51-4f19-a363-2beb1c4af543.png)
-step 3
+
+Step 3
 ![image](https://user-images.githubusercontent.com/112961338/197534034-151fe5a8-5986-4ee4-bcbe-0e1e40546f1a.png)
-step 4
+Step 4
 ![image](https://user-images.githubusercontent.com/112961338/197534053-b219dd30-fbea-4698-80dd-c1171cd107a0.png)
 
-
 ### Reflection
-
+This assignment was a lot to take on. The first step was the longest, as we had to actually create each part. The 'use' tool was essential for this. When you use the 'use' tool instead of dimensioning everything in each part, it makes transitioning between steps very easy. Things just change the way you want them to instead of breaking. I wasn't sure how to get the bolts to change between steps, so I just changed how tall they were. Since we'll have to do this assignment faster in the future, it would help to figure out how to constrain the height. 
 
 
 
