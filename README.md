@@ -33,6 +33,7 @@ The goal of this assignment was to use 4 drawings of a part to create the part. 
 Step 1
 ![image](https://user-images.githubusercontent.com/112961338/197531444-6a0787c3-8296-48d4-b177-1d8d761cf3a6.png)
 
+
 Step 2
 ![image](https://user-images.githubusercontent.com/112961338/197531505-3f9b8089-c328-4d09-b739-b24791e89d8a.png)
 
@@ -47,11 +48,13 @@ This assignment was similar to the previous one, but on a larger scale; we had t
 ### Evidence
 Step 1
 ![image](https://user-images.githubusercontent.com/112961338/197533959-dad31c35-e184-4f42-a78e-8dbe9c1385f1.png)
+
 Step 2
 ![image](https://user-images.githubusercontent.com/112961338/197533995-4e106c30-ab51-4f19-a363-2beb1c4af543.png)
 
 Step 3
 ![image](https://user-images.githubusercontent.com/112961338/197534034-151fe5a8-5986-4ee4-bcbe-0e1e40546f1a.png)
+
 Step 4
 ![image](https://user-images.githubusercontent.com/112961338/197534053-b219dd30-fbea-4698-80dd-c1171cd107a0.png)
 
