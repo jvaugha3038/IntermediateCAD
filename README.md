@@ -24,7 +24,7 @@ My branch for 4.4:
 
 
 ### Reflection
-This assignment was pretty easy, as the class finished it at around the same time. This was an instruction following assignment, so the only bad part was having to flip back and forth between the instructions and the part studio. 
+This assignment was pretty easy, as the class finished it at around the same time. This was an instruction following assignment, so the only bad part was having to flip back and forth between the instructions and the part studio. The parts I created were the ring and key. The ring was basically just extruding sketches, and the key was more extrudes and a linear pattern to make the teeth on the side.
 
 ## `Swing_Arm`
 https://cvilleschools.onshape.com/documents/ee952b74bf21f64b992a46b1/w/541314a0c851ddfc4524ab49/e/dfad6464d835f17fa032b339
@@ -41,7 +41,7 @@ Step 2
 ![image](https://user-images.githubusercontent.com/112961338/197531505-3f9b8089-c328-4d09-b739-b24791e89d8a.png)
 
 ### Reflection
-This assignment was somewhat troubling. At face value, it seemed very difficult, as there was no real place to start building. I eventually started with defining the 3 variables, and getting the rough shape of it down. Once I got started, it became much simpler, until I got to the holes on the ends of the swing arm. I had no idea how to constrain them, but it involved some math using numbers that were in different drawings. At step 2, I changed the variables, and the mass of the part ended up being about 200 to 300 grams off. I had apparently set a dimension to a variable even though it shouldn't have been. I feel like every problem I encountered here could have been easily avoided.
+This assignment was somewhat troubling. At face value, it seemed very difficult, as there was no real place to start building. I eventually started with defining the 3 variables, and getting the rough shape of it down. Once I got started, it became much simpler, until I got to the holes on the ends of the swing arm. I had no idea how to constrain them, but it involved some math using numbers that were in different drawings. At step 2, I changed the variables, and the mass of the part ended up being about 200 to 300 grams off. I had apparently set a dimension to a variable even though it shouldn't have been. I feel like every problem I encountered here could have been easily avoided by constraining more things instead of dimensioning them.
 
 ## `Multi_Part_Studio`
 https://cvilleschools.onshape.com/documents/de64864c6a0de0a6e3bc3e4c/w/8ea04ec4c563de9c9d1e7312/e/638e335bde7714d4ae13754b
@@ -64,7 +64,7 @@ Step 4
 ![image](https://user-images.githubusercontent.com/112961338/197534053-b219dd30-fbea-4698-80dd-c1171cd107a0.png)
 
 ### Reflection
-This assignment was a lot to take on. The first step was the longest, as we had to actually create each part. The 'use' tool was essential for this. When you use the 'use' tool instead of dimensioning everything in each part, it makes transitioning between steps very easy. Things just change the way you want them to instead of breaking. I wasn't sure how to get the bolts to change between steps, so I just changed how tall they were. Since we'll have to do this assignment faster in the future, it would help to figure out how to constrain the height. 
+This assignment was a lot to take on. The first step was the longest, as we had to actually create each part. The 'use' tool was essential for this. When you use the 'use' tool instead of dimensioning everything in each part, it makes transitioning between steps very easy. Things just change the way you want them to instead of breaking, and it saves a lot of time. I wasn't sure how to get the bolts to change between steps, so I just changed how tall they were manually. Since we'll have to do this assignment faster in the future, it would help to figure out how to constrain the height. 
 
 
 
