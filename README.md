@@ -14,7 +14,8 @@ The goal of this assignment was to work with a partner to create a pull copter c
 My partner in this was Ryan Franck.
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/fc51a0462d1a7ced55b4b30d/w/0b74996420ca62b3d07fca47/e/f234a59f84aae45562e7bb13
+[link to document]([url](https://cvilleschools.onshape.com/documents/fc51a0462d1a7ced55b4b30d/w/0b74996420ca62b3d07fca47/e/f234a59f84aae45562e7bb13))
+
 ![image](https://user-images.githubusercontent.com/112961338/197209718-83789c10-2f35-4706-98dd-213be9917455.png)
 
 My branch for 4.4:
