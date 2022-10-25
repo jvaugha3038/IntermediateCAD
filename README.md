@@ -11,7 +11,7 @@
 https://cvilleschools.onshape.com/documents/fc51a0462d1a7ced55b4b30d/w/0b74996420ca62b3d07fca47/e/f234a59f84aae45562e7bb13
 
 ### Description
-The goal of this assignment was to work with a partner to create a pull copter comprised of five parts, the top, spinner, key, ring, and prop. The top was already made for us.
+The goal of this assignment was to work with a partner to create a pull copter comprised of five parts, the top, spinner, key, ring, and prop. The top was already made for us. Notable tools used throughout the assignment are linear pattern, circular pattern, sweep, and helix.
 My partner in this was Ryan Franck.
 
 ### Evidence
@@ -30,7 +30,7 @@ This assignment was pretty easy, as the class finished it at around the same tim
 https://cvilleschools.onshape.com/documents/ee952b74bf21f64b992a46b1/w/541314a0c851ddfc4524ab49/e/dfad6464d835f17fa032b339
 
 ### Description
-The goal of this assignment was to use 4 drawings of a part to create the part. The second step involved changing 3 variables. This meant we had to build it in a way that would ensure it wouldn't break at step 2.
+The goal of this assignment was to use 4 drawings of a part to create the part. The second step involved changing 3 variables. This meant we had to build it in a way that would ensure it wouldn't break at step 2. No new/notable tools were used, as this mainly relied on our own base CAD knowledge and our ability to apply it to something more intensive.
 
 ### Evidence
 Step 1
@@ -47,22 +47,20 @@ This assignment was somewhat troubling. At face value, it seemed very difficult,
 https://cvilleschools.onshape.com/documents/de64864c6a0de0a6e3bc3e4c/w/8ea04ec4c563de9c9d1e7312/e/638e335bde7714d4ae13754b
 
 ### Description
-This assignment was similar to the previous one, but on a larger scale; we had to use 10 drawings to create parts in one part studio, then change dimensions for the next 3 steps.
+This assignment was similar to the previous one, but on a larger scale; we had to use 10 drawings to create parts in one part studio, then change dimensions for the next 3 steps. Notable tools used are use, boolean, transform, circular pattern, and revolve.
 
 ### Evidence
 https://cvilleschools.onshape.com/documents/de64864c6a0de0a6e3bc3e4c/w/8ea04ec4c563de9c9d1e7312/e/638e335bde7714d4ae13754b
 Step 1
 ![image](https://user-images.githubusercontent.com/112961338/197533959-dad31c35-e184-4f42-a78e-8dbe9c1385f1.png)
 
-Step 2
-![image](https://user-images.githubusercontent.com/112961338/197533995-4e106c30-ab51-4f19-a363-2beb1c4af543.png)
-
-Step 3
-![image](https://user-images.githubusercontent.com/112961338/197534034-151fe5a8-5986-4ee4-bcbe-0e1e40546f1a.png)
+Section View
+![image](https://user-images.githubusercontent.com/112961338/197788182-a4a5192d-2d82-41ac-9513-dea836f97353.png)
 
 Step 4
 ![image](https://user-images.githubusercontent.com/112961338/197534053-b219dd30-fbea-4698-80dd-c1171cd107a0.png)
 
+(image formatting is awful)
 ### Reflection
 This assignment was a lot to take on. The first step was the longest, as we had to actually create each part. The 'use' tool was essential for this. When you use the 'use' tool instead of dimensioning everything in each part, it makes transitioning between steps very easy. Things just change the way you want them to instead of breaking, and it saves a lot of time. I wasn't sure how to get the bolts to change between steps, so I just changed how tall they were manually. Since we'll have to do this assignment faster in the future, it would help to figure out how to constrain the height. 
 
