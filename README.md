@@ -8,13 +8,13 @@
 ---
 
 ## `Teamwork`
+https://cvilleschools.onshape.com/documents/fc51a0462d1a7ced55b4b30d/w/0b74996420ca62b3d07fca47/e/f234a59f84aae45562e7bb13
 
 ### Description
 The goal of this assignment was to work with a partner to create a pull copter comprised of five parts, the top, spinner, key, ring, and prop. The top was already made for us.
 My partner in this was Ryan Franck.
 
 ### Evidence
-https://cvilleschools.onshape.com/documents/fc51a0462d1a7ced55b4b30d/w/0b74996420ca62b3d07fca47/e/f234a59f84aae45562e7bb13
 
 ![image](https://user-images.githubusercontent.com/112961338/197209718-83789c10-2f35-4706-98dd-213be9917455.png)
 
@@ -27,7 +27,7 @@ My branch for 4.4:
 This assignment was pretty easy, as the class finished it at around the same time. This was an instruction following assignment, so the only bad part was having to flip back and forth between the instructions and the part studio. 
 
 ## `Swing_Arm`
-(https://cvilleschools.onshape.com/documents/ee952b74bf21f64b992a46b1/w/541314a0c851ddfc4524ab49/e/dfad6464d835f17fa032b339)
+https://cvilleschools.onshape.com/documents/ee952b74bf21f64b992a46b1/w/541314a0c851ddfc4524ab49/e/dfad6464d835f17fa032b339
 
 ### Description
 The goal of this assignment was to use 4 drawings of a part to create the part. The second step involved changing 3 variables. This meant we had to build it in a way that would ensure it wouldn't break at step 2.
