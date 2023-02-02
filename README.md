@@ -4,7 +4,7 @@
 * [Teamwork Makes the Dream Work!](#Teamwork)
 * [Swing Arm](#Swing_Arm)
 * [Multi-Part Studio](#Multi_Part_Studio)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [Robot Arm](#Robot_Arm_Project)
 ---
 
 ## `Teamwork`
@@ -66,11 +66,11 @@ This assignment was a lot to take on. The first step was the longest, as we had 
 
 
 
-
-## NextAssignment
-
+## `Robot Arm Project`
+Afton and Jayden
 ### Description
-
+The overall goal of this assignment was to create a robot arm, with at least two joints, to solve a problem. 
+The problem we came up with is that tic-tac-toe sucks because its always a draw, so we made a robot that will cheat in tic-tac-toe.
 ### Evidence
 
 
